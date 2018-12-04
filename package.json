@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/stevenyslee/time.ly/issues"
   },
-  "homepage": "https://github.com/stevenyslee/time.ly#readme"
+  "homepage": "https://github.com/stevenyslee/time.ly#readme",
+  "devDependencies": {
+    "webpack": "^4.27.0",
+    "webpack-cli": "^3.1.2"
+  }
 }
