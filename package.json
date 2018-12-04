@@ -1,0 +1,19 @@
+{
+  "name": "time.ly",
+  "version": "1.0.0",
+  "description": "Productivity Tracking App",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenyslee/time.ly.git"
+  },
+  "author": "Steven Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenyslee/time.ly/issues"
+  },
+  "homepage": "https://github.com/stevenyslee/time.ly#readme"
+}
